@@ -1,0 +1,28 @@
+{
+  "title": "Conjunctive gates in engineered proteins: a review of mechanisms and boundary cases",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>The Protein Engineering Grammar describes proteins whose function is gated by a controlled input, using four terms: Sensor, Gate, Processor, and Actuator. Two Gate values require conjunction of inputs, which this review calls conjunctive gates: AND-like, requiring multiple inputs together, and Conditional Unlock, in which a single input switches on a function that is off by default.</p><p>The review examines their molecular implementation and the specificity achieved across modalities (therapeutics, synthetic biology, de novo design, and biomaterials), classifies reusable trigger-recognition tactics, and discusses the role of computational and AI-based design platforms.</p>",
+  "creators": [
+    {
+      "name": "Saka, Koichiro"
+    }
+  ],
+  "keywords": [
+    "protein engineering",
+    "AND-like gate",
+    "Conditional Unlock",
+    "molecular switch",
+    "synthetic biology"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22868586",
+      "relation": "cites",
+      "scheme": "doi"
+    }
+  ]
+}
