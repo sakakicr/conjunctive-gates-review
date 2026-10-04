@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the Zenodo record (DOI) rather than this repository."
+message: "If you use this work, please cite it using the Zenodo record (concept DOI, which always resolves to the latest version) rather than this repository."
 title: "Conjunctive gates in engineered proteins: a review of mechanisms and boundary cases"
 type: generic
 abstract: "The Protein Engineering Grammar describes proteins whose function is gated by a controlled input, using four terms: Sensor, Gate, Processor, and Actuator. Two Gate values require conjunction of inputs, which this review calls conjunctive gates: AND-like, requiring multiple inputs together, and Conditional Unlock, in which a single input switches on a function that is off by default. The review examines their molecular implementation and achieved specificity across modalities, classifies reusable trigger-recognition tactics, and discusses the role of computational and AI-based design platforms."
@@ -15,8 +15,8 @@ keywords:
   - molecular switch
   - synthetic biology
 version: "1.0.0"
-# date-released: fill in on the day of release (YYYY-MM-DD)
-# doi: fill in with the Zenodo concept DOI after the first record is created
+date-released: "2026-10-04"
+doi: "10.5281/zenodo.23129393"
 references:
   - type: generic
     title: "Protein Engineering Grammar: From Molecular Formats to Programmable Medicines"

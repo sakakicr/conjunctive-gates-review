@@ -2,6 +2,8 @@
 
 Koichiro Saka
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23129393.svg)](https://doi.org/10.5281/zenodo.23129393)
+
 The Protein Engineering Grammar describes proteins whose function is gated by a controlled input, using four terms: Sensor, Gate, Processor, and Actuator. Two Gate values require conjunction of inputs, which this review calls "conjunctive gates": AND-like, requiring multiple inputs together, and Conditional Unlock, in which a single input switches on a function that is off by default. This review examines their molecular implementation and the specificity achieved across modalities (therapeutics, synthetic biology, de novo design, and biomaterials), classifies reusable trigger-recognition tactics, and discusses the role of computational and AI-based design platforms.
 
 The review uses the vocabulary of the [Protein Engineering Grammar](https://doi.org/10.5281/zenodo.22868586).
@@ -16,7 +18,7 @@ The review uses the vocabulary of the [Protein Engineering Grammar](https://doi.
 
 ## How to cite
 
-Please cite the Zenodo record (the DOI is given on the record page).
+Please cite the Zenodo record. The concept DOI [10.5281/zenodo.23129393](https://doi.org/10.5281/zenodo.23129393) always resolves to the latest version; version 1.0.0 is [10.5281/zenodo.23129394](https://doi.org/10.5281/zenodo.23129394).
 
 ## Status
 
